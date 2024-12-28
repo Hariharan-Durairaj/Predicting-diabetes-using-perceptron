@@ -46,11 +46,13 @@ Ensure that you have the following installed:
 The `requirements.txt` file includes the following:
 
 ```
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+numpy==1.25.2
+pandas==1.5.3
+matplotlib==3.4.3
+seaborn==0.13.2
+scikit-learn==1.3.0
+pytorch==2.0.1
+torchvision==0.15.2
 jupyter
 ```
 
